@@ -1,6 +1,6 @@
 # **Behavioral Cloning**
 
-## Writeup Template
+## By Vijay
 ---
 
 **Behavioral Cloning Project**
@@ -15,17 +15,17 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./out_images/sample_Original.jpg "Original image"
-[image2]: ./out_images/sample_Cropped.jpg "Cropped image"
-[image3]: ./out_images/sample_Resized.jpg "Resized image"
-[image4]: ./out_images/sample_GaussianNoised.jpg "Gaussian Noised image"
-[image5]: ./out_images/sample_HistogramEqualized.jpg "Histogram Equalized image"
-[image6]: ./out_images/sample_GaussianBlurred.jpg "Gaussian Blur image"
-[image7]: ./out_images/sample_Normalized.jpg "Normalized image"
-[image8]: ./out_images/left_recovery.jpg "Left Recovery image"
-[image9]: ./out_images/right_recovery.jpg "Right Recovery Image"
-[hist1]: ./out_images/angles_hist.jpg "Steering angles histogram"
-[hist2]: ./out_images/angles_hist_normal.jpg "Steering angles histogram"
+[image1]: ./sample_Original.jpg "Original image"
+[image2]: ./sample_Cropped.jpg "Cropped image"
+[image3]: ./sample_Resized.jpg "Resized image"
+[image4]: ./sample_GaussianNoised.jpg "Gaussian Noised image"
+[image5]: ./sample_HistogramEqualized.jpg "Histogram Equalized image"
+[image6]: ./sample_GaussianBlurred.jpg "Gaussian Blur image"
+[image7]: ./sample_Normalized.jpg "Normalized image"
+[image8]: ./left_recovery.jpg "Left Recovery image"
+[image9]: ./right_recovery.jpg "Right Recovery Image"
+[hist1]: ./angles_hist.jpg "Steering angles histogram"
+[hist2]: ./angles_hist_normal.jpg "Steering angles histogram"
 
 ---
 ### Files Submitted & Code Quality
